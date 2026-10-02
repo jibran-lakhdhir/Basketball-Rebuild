@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Basketball Rebuild</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="app-header">
+  <h1>Basketball Rebuild</h1>
+  <div id="franchise-header" class="cap-summary hidden"></div>
+</header>
+
+<main id="app">
+
+  <!-- Franchise hub: list saves, start a new one -->
+  <section id="screen-hub" class="screen">
+    <h2>Your Franchises</h2>
+    <p class="subtitle">Pick a save to continue, or start a new rebuild.</p>
+    <div id="franchise-list" class="team-grid"></div>
+    <div class="action-bar">
+      <span></span>
+      <button id="btn-new-franchise">New Franchise</button>
+    </div>
+  </section>
+
+  <!-- New franchise: name it, then pick a team -->
+  <section id="screen-new-franchise" class="screen hidden">
+    <h2>Start a New Franchise</h2>
+    <p class="subtitle">Name your franchise, then take over any real 2025-26 roster.</p>
+    <div class="action-bar" style="justify-content:flex-start; margin-bottom:20px;">
+      <input id="franchise-name-input" type="text" placeholder="Franchise name (e.g. &quot;Heat Rebuild&quot;)">
+    </div>
+    <div id="team-grid" class="team-grid"></div>
+    <div class="action-bar">
+      <span id="new-franchise-error" class="error"></span>
+      <button id="btn-back-to-hub" class="secondary">Back</button>
+    </div>
+  </section>
+
+  <!-- Dashboard: persistent tabs for an in-progress franchise -->
+  <section id="screen-dashboard" class="screen hidden">
+    <nav class="tab-bar">
+      <button class="tab-btn" data-tab="calendar">Calendar</button>
+      <button class="tab-btn" data-tab="stats">Stats &amp; Records</button>
+      <button class="tab-btn" data-tab="front-office">Front Office</button>
+      <button class="tab-btn" data-tab="coaching">Coaching</button>
+    </nav>
+
+    <div id="tab-calendar" class="tab-panel">
+      <h2>Calendar</h2>
+      <p class="subtitle" id="calendar-date-label"></p>
+
+      <div id="regular-season-view">
+        <div class="action-bar" style="justify-content:flex-start;">
+          <button id="btn-sim-next-game">Sim to Next Game</button>
+          <button id="btn-sim-next-milestone" class="secondary">Sim to Next Milestone</button>
+          <span id="calendar-error" class="error"></span>
+        </div>
+
+        <div id="last-game-panel"></div>
+
+        <h3>Season Schedule</h3>
+        <table id="schedule-table" class="data-table"></table>
+      </div>
+
+      <div id="playoff-view" class="hidden">
+        <div class="action-bar" style="justify-content:flex-start;">
+          <button id="btn-sim-next-round">Sim Next Round</button>
+          <button id="btn-view-awards-again" class="secondary">View Awards</button>
+          <button id="btn-continue-to-offseason" class="hidden">Continue to Offseason</button>
+          <span id="playoff-error" class="error"></span>
+        </div>
+
+        <div id="champion-banner" class="hidden"></div>
+        <div id="playoff-last-game-panel"></div>
+        <div id="bracket-container"></div>
+      </div>
+
+      <div id="offseason-view" class="hidden">
+        <div class="action-bar" style="justify-content:flex-start;">
+          <button id="btn-begin-offseason">Begin Offseason Processing</button>
+          <button id="btn-start-new-season" class="hidden">Start New Season</button>
+          <span id="offseason-error" class="error"></span>
+        </div>
+        <p class="subtitle" id="offseason-hint"></p>
+        <div id="offseason-retirees"></div>
+
+        <div id="draft-board" class="hidden">
+          <div class="action-bar" style="justify-content:space-between;">
+            <h3 id="draft-status-label" style="margin:0;"></h3>
+            <button id="btn-sim-rest-draft" class="secondary">Sim Rest of Draft</button>
+          </div>
+          <span id="draft-error" class="error"></span>
+          <div id="draft-prospect-list" class="player-list"></div>
+          <h4 id="draft-picks-made-heading" class="hidden">Picks So Far</h4>
+          <table id="draft-picks-made-table" class="data-table"></table>
+        </div>
+      </div>
+    </div>
+
+    <div id="tab-stats" class="tab-panel hidden">
+      <h2>Stats &amp; Records</h2>
+      <p class="subtitle">Season averages accumulate as you play — individual game box scores older than your last game aren't kept.</p>
+
+      <h3>Standings</h3>
+      <p class="subtitle" style="margin-top:-8px;">Top 8 in each conference (highlighted) make the playoffs.</p>
+      <div class="conference-standings">
+        <div>
+          <h4>Eastern Conference</h4>
+          <table id="standings-table-eastern" class="data-table"></table>
+        </div>
+        <div>
+          <h4>Western Conference</h4>
+          <table id="standings-table-western" class="data-table"></table>
+        </div>
+      </div>
+
+      <h3>Your Team — Season Averages</h3>
+      <table id="team-season-stats-table" class="data-table"></table>
+
+      <h3>League Leaders</h3>
+      <div id="league-leaders-grid" class="leaders-grid"></div>
+    </div>
+
+    <div id="tab-front-office" class="tab-panel hidden">
+      <h2>Front Office</h2>
+      <p class="subtitle">Waive players to clear space (their salary stays as dead cap), and sign free agents.</p>
+      <div class="fa-layout">
+        <div>
+          <h3>Your Roster</h3>
+          <div id="fa-roster-list" class="player-list"></div>
+        </div>
+        <div>
+          <h3>Available Free Agents</h3>
+          <div id="fa-pool-list" class="player-list"></div>
+        </div>
+      </div>
+      <div class="action-bar">
+        <span id="fa-error" class="error"></span>
+      </div>
+    </div>
+
+    <div id="tab-coaching" class="tab-panel hidden">
+      <h2>Coaching</h2>
+      <p class="subtitle">Set your starting five and bench rotation.</p>
+      <div class="lineup-layout">
+        <div>
+          <h3>Starters</h3>
+          <div id="starters-list" class="player-list dropzone" data-zone="starters"></div>
+          <h3>Bench Rotation</h3>
+          <div id="bench-list" class="player-list dropzone" data-zone="bench"></div>
+        </div>
+        <div>
+          <h3>Full Roster</h3>
+          <div id="roster-list" class="player-list"></div>
+        </div>
+      </div>
+      <div class="action-bar">
+        <span id="lineup-error" class="error"></span>
+        <button id="btn-save-lineup">Save Lineup</button>
+      </div>
+    </div>
+  </section>
+
+  <div id="loading-overlay" class="loading-overlay hidden">
+    <div class="spinner"></div>
+    <div id="loading-text">Loading...</div>
+  </div>
+
+  <div id="awards-modal" class="modal-overlay hidden">
+    <div class="modal-content">
+      <h2>End of Season Awards</h2>
+      <div id="awards-content"></div>
+      <div class="action-bar">
+        <span></span>
+        <button id="btn-close-awards">View Playoff Bracket</button>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<template id="player-card-template">
+  <div class="player-card">
+    <div class="player-card-main">
+      <span class="player-name"></span>
+      <span class="player-meta"></span>
+    </div>
+    <div class="player-card-grades"></div>
+    <div class="player-card-actions"></div>
+  </div>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+flask
+basketball_reference_web_scraper
+nba_api
+beautifulsoup4
+requests
+sqlalchemy

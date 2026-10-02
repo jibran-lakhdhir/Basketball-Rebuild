@@ -1,0 +1,3208 @@
+{
+  "curryst01": {
+    "name": "Stephen Curry",
+    "normalized_name": "stephen curry",
+    "salary_2025_26": 59606817,
+    "flat_salary": 61096988,
+    "contract_years": 2
+  },
+  "embiijo01": {
+    "name": "Joel Embiid",
+    "normalized_name": "joel embiid",
+    "salary_2025_26": 55224526,
+    "flat_salary": 60867132,
+    "contract_years": 4
+  },
+  "jokicni01": {
+    "name": "Nikola Joki\u00c4\u0087",
+    "normalized_name": "nikola jokia",
+    "salary_2025_26": 55224526,
+    "flat_salary": 59033114,
+    "contract_years": 3
+  },
+  "duranke01": {
+    "name": "Kevin Durant",
+    "normalized_name": "kevin durant",
+    "salary_2025_26": 54708609,
+    "flat_salary": 48236203,
+    "contract_years": 3
+  },
+  "tatumja01": {
+    "name": "Jayson Tatum",
+    "normalized_name": "jayson tatum",
+    "salary_2025_26": 54126450,
+    "flat_salary": 62786682,
+    "contract_years": 5
+  },
+  "antetgi01": {
+    "name": "Giannis Antetokounmpo",
+    "normalized_name": "giannis antetokounmpo",
+    "salary_2025_26": 54126450,
+    "flat_salary": 58456566,
+    "contract_years": 3
+  },
+  "davisan02": {
+    "name": "Anthony Davis",
+    "normalized_name": "anthony davis",
+    "salary_2025_26": 54126450,
+    "flat_salary": 58456566,
+    "contract_years": 3
+  },
+  "butleji01": {
+    "name": "Jimmy Butler",
+    "normalized_name": "jimmy butler",
+    "salary_2025_26": 54126450,
+    "flat_salary": 55479612,
+    "contract_years": 2
+  },
+  "lillada01": {
+    "name": "Damian Lillard",
+    "normalized_name": "damian lillard",
+    "salary_2025_26": 68230450,
+    "flat_salary": 31911083,
+    "contract_years": 3
+  },
+  "bealbr01": {
+    "name": "Bradley Beal",
+    "normalized_name": "bradley beal",
+    "salary_2025_26": 59020270,
+    "flat_salary": 32320985,
+    "contract_years": 2
+  },
+  "brownja02": {
+    "name": "Jaylen Brown",
+    "normalized_name": "jaylen brown",
+    "salary_2025_26": 53142264,
+    "flat_salary": 59046960,
+    "contract_years": 4
+  },
+  "bookede01": {
+    "name": "Devin Booker",
+    "normalized_name": "devin booker",
+    "salary_2025_26": 53142264,
+    "flat_salary": 60898673,
+    "contract_years": 5
+  },
+  "townska01": {
+    "name": "Karl-Anthony Towns",
+    "normalized_name": "karlanthony towns",
+    "salary_2025_26": 53142264,
+    "flat_salary": 57078728,
+    "contract_years": 3
+  },
+  "jamesle01": {
+    "name": "LeBron James",
+    "normalized_name": "lebron james",
+    "salary_2025_26": 52627153,
+    "flat_salary": 52627153,
+    "contract_years": 1
+  },
+  "georgpa01": {
+    "name": "Paul George",
+    "normalized_name": "paul george",
+    "salary_2025_26": 51666090,
+    "flat_salary": 54126380,
+    "contract_years": 3
+  },
+  "leonaka01": {
+    "name": "Kawhi Leonard",
+    "normalized_name": "kawhi leonard",
+    "salary_2025_26": 50000000,
+    "flat_salary": 50150000,
+    "contract_years": 2
+  },
+  "lavinza01": {
+    "name": "Zach LaVine",
+    "normalized_name": "zach lavine",
+    "salary_2025_26": 47499660,
+    "flat_salary": 48233520,
+    "contract_years": 2
+  },
+  "cunnica01": {
+    "name": "Cade Cunningham",
+    "normalized_name": "cade cunningham",
+    "salary_2025_26": 46394100,
+    "flat_salary": 53817156,
+    "contract_years": 5
+  },
+  "mobleev01": {
+    "name": "Evan Mobley",
+    "normalized_name": "evan mobley",
+    "salary_2025_26": 46394100,
+    "flat_salary": 53817156,
+    "contract_years": 5
+  },
+  "murraja01": {
+    "name": "Jamal Murray",
+    "normalized_name": "jamal murray",
+    "salary_2025_26": 46394100,
+    "flat_salary": 51961392,
+    "contract_years": 4
+  },
+  "markkla01": {
+    "name": "Lauri Markkanen",
+    "normalized_name": "lauri markkanen",
+    "salary_2025_26": 46394100,
+    "flat_salary": 48967036,
+    "contract_years": 4
+  },
+  "mitchdo01": {
+    "name": "Donovan Mitchell",
+    "normalized_name": "donovan mitchell",
+    "salary_2025_26": 46394100,
+    "flat_salary": 50105628,
+    "contract_years": 3
+  },
+  "doncilu01": {
+    "name": "Luka Don\u00c4\u008di\u00c4\u0087",
+    "normalized_name": "luka donaia",
+    "salary_2025_26": 45999660,
+    "flat_salary": 51837915,
+    "contract_years": 4
+  },
+  "youngtr01": {
+    "name": "Trae Young",
+    "normalized_name": "trae young",
+    "salary_2025_26": 45999660,
+    "flat_salary": 47483520,
+    "contract_years": 2
+  },
+  "edwaran01": {
+    "name": "Anthony Edwards",
+    "normalized_name": "anthony edwards",
+    "salary_2025_26": 45550512,
+    "flat_salary": 50611680,
+    "contract_years": 4
+  },
+  "halibty01": {
+    "name": "Tyrese Haliburton",
+    "normalized_name": "tyrese haliburton",
+    "salary_2025_26": 45550512,
+    "flat_salary": 50611680,
+    "contract_years": 4
+  },
+  "siakapa01": {
+    "name": "Pascal Siakam",
+    "normalized_name": "pascal siakam",
+    "salary_2025_26": 45550512,
+    "flat_salary": 48924624,
+    "contract_years": 3
+  },
+  "sabondo01": {
+    "name": "Domantas Sabonis",
+    "normalized_name": "domantas sabonis",
+    "salary_2025_26": 42336000,
+    "flat_salary": 45472000,
+    "contract_years": 3
+  },
+  "anunoog01": {
+    "name": "OG Anunoby",
+    "normalized_name": "og anunoby",
+    "salary_2025_26": 39568966,
+    "flat_salary": 43965517,
+    "contract_years": 4
+  },
+  "willizi01": {
+    "name": "Zion Williamson",
+    "normalized_name": "zion williamson",
+    "salary_2025_26": 39446090,
+    "flat_salary": 42166510,
+    "contract_years": 3
+  },
+  "moranja01": {
+    "name": "Ja Morant",
+    "normalized_name": "ja morant",
+    "salary_2025_26": 39446090,
+    "flat_salary": 42166510,
+    "contract_years": 3
+  },
+  "garlada01": {
+    "name": "Darius Garland",
+    "normalized_name": "darius garland",
+    "salary_2025_26": 39446090,
+    "flat_salary": 42166510,
+    "contract_years": 3
+  },
+  "hardeja01": {
+    "name": "James Harden",
+    "normalized_name": "james harden",
+    "salary_2025_26": 39182693,
+    "flat_salary": 40750000,
+    "contract_years": 2
+  },
+  "barnesc01": {
+    "name": "Scottie Barnes",
+    "normalized_name": "scottie barnes",
+    "salary_2025_26": 38661750,
+    "flat_salary": 44847630,
+    "contract_years": 5
+  },
+  "wagnefr01": {
+    "name": "Franz Wagner",
+    "normalized_name": "franz wagner",
+    "salary_2025_26": 38661750,
+    "flat_salary": 44847630,
+    "contract_years": 5
+  },
+  "gilgesh01": {
+    "name": "Shai Gilgeous-Alexander",
+    "normalized_name": "shai gilgeousalexander",
+    "salary_2025_26": 38333050,
+    "flat_salary": 58740267,
+    "contract_years": 6
+  },
+  "portemi01": {
+    "name": "Michael Porter Jr.",
+    "normalized_name": "michael porter",
+    "salary_2025_26": 38333050,
+    "flat_salary": 39569600,
+    "contract_years": 2
+  },
+  "ingrabr01": {
+    "name": "Brandon Ingram",
+    "normalized_name": "brandon ingram",
+    "salary_2025_26": 38095238,
+    "flat_salary": 40000000,
+    "contract_years": 3
+  },
+  "maxeyty01": {
+    "name": "Tyrese Maxey",
+    "normalized_name": "tyrese maxey",
+    "salary_2025_26": 37958760,
+    "flat_salary": 42176400,
+    "contract_years": 4
+  },
+  "ballla01": {
+    "name": "LaMelo Ball",
+    "normalized_name": "lamelo ball",
+    "salary_2025_26": 37958760,
+    "flat_salary": 42176400,
+    "contract_years": 4
+  },
+  "foxde01": {
+    "name": "De'Aaron Fox",
+    "normalized_name": "deaaron fox",
+    "salary_2025_26": 37096620,
+    "flat_salary": 52040124,
+    "contract_years": 5
+  },
+  "adebaba01": {
+    "name": "Bam Adebayo",
+    "normalized_name": "bam adebayo",
+    "salary_2025_26": 37096620,
+    "flat_salary": 49612155,
+    "contract_years": 4
+  },
+  "banede01": {
+    "name": "Desmond Bane",
+    "normalized_name": "desmond bane",
+    "salary_2025_26": 36725670,
+    "flat_salary": 40806300,
+    "contract_years": 4
+  },
+  "irvinky01": {
+    "name": "Kyrie Irving",
+    "normalized_name": "kyrie irving",
+    "salary_2025_26": 36566002,
+    "flat_salary": 39491282,
+    "contract_years": 3
+  },
+  "aytonde01": {
+    "name": "Deandre Ayton",
+    "normalized_name": "deandre ayton",
+    "salary_2025_26": 43654814,
+    "flat_salary": 25879407,
+    "contract_years": 2
+  },
+  "jacksja02": {
+    "name": "Jaren Jackson Jr.",
+    "normalized_name": "jaren jackson",
+    "salary_2025_26": 35000000,
+    "flat_salary": 48000000,
+    "contract_years": 5
+  },
+  "suggsja01": {
+    "name": "Jalen Suggs",
+    "normalized_name": "jalen suggs",
+    "salary_2025_26": 35000000,
+    "flat_salary": 30100000,
+    "contract_years": 5
+  },
+  "goberru01": {
+    "name": "Rudy Gobert",
+    "normalized_name": "rudy gobert",
+    "salary_2025_26": 35000000,
+    "flat_salary": 36500000,
+    "contract_years": 3
+  },
+  "brunsja01": {
+    "name": "Jalen Brunson",
+    "normalized_name": "jalen brunson",
+    "salary_2025_26": 34944001,
+    "flat_salary": 39137281,
+    "contract_years": 4
+  },
+  "sengual01": {
+    "name": "Alperen \u00c5\u009eeng\u00c3\u00bcn",
+    "normalized_name": "alperen aenga14n",
+    "salary_2025_26": 33944954,
+    "flat_salary": 37000000,
+    "contract_years": 5
+  },
+  "greenja05": {
+    "name": "Jalen Green",
+    "normalized_name": "jalen green",
+    "salary_2025_26": 33584499,
+    "flat_salary": 35278555,
+    "contract_years": 3
+  },
+  "middlkh01": {
+    "name": "Khris Middleton",
+    "normalized_name": "khris middleton",
+    "salary_2025_26": 33296296,
+    "flat_salary": 33296296,
+    "contract_years": 1
+  },
+  "quickim01": {
+    "name": "Immanuel Quickley",
+    "normalized_name": "immanuel quickley",
+    "salary_2025_26": 32500000,
+    "flat_salary": 32500000,
+    "contract_years": 4
+  },
+  "holidjr01": {
+    "name": "Jrue Holiday",
+    "normalized_name": "jrue holiday",
+    "salary_2025_26": 32400000,
+    "flat_salary": 34800000,
+    "contract_years": 3
+  },
+  "grantje01": {
+    "name": "Jerami Grant",
+    "normalized_name": "jerami grant",
+    "salary_2025_26": 32000001,
+    "flat_salary": 34206896,
+    "contract_years": 3
+  },
+  "poolejo01": {
+    "name": "Jordan Poole",
+    "normalized_name": "jordan poole",
+    "salary_2025_26": 31848215,
+    "flat_salary": 32946428,
+    "contract_years": 2
+  },
+  "herroty01": {
+    "name": "Tyler Herro",
+    "normalized_name": "tyler herro",
+    "salary_2025_26": 31000000,
+    "flat_salary": 32000000,
+    "contract_years": 2
+  },
+  "randlju01": {
+    "name": "Julius Randle",
+    "normalized_name": "julius randle",
+    "salary_2025_26": 30864198,
+    "flat_salary": 33333333,
+    "contract_years": 3
+  },
+  "murrade01": {
+    "name": "Dejounte Murray",
+    "normalized_name": "dejounte murray",
+    "salary_2025_26": 30801103,
+    "flat_salary": 31445893,
+    "contract_years": 3
+  },
+  "porzikr01": {
+    "name": "Kristaps Porzi\u00c5\u0086\u00c4\u00a3is",
+    "normalized_name": "kristaps porziaais",
+    "salary_2025_26": 30731707,
+    "flat_salary": 30731707,
+    "contract_years": 1
+  },
+  "mccolcj01": {
+    "name": "CJ McCollum",
+    "normalized_name": "cj mccollum",
+    "salary_2025_26": 30666666,
+    "flat_salary": 30666666,
+    "contract_years": 1
+  },
+  "johnsja05": {
+    "name": "Jalen Johnson",
+    "normalized_name": "jalen johnson",
+    "salary_2025_26": 30000000,
+    "flat_salary": 30000000,
+    "contract_years": 5
+  },
+  "harteis01": {
+    "name": "Isaiah Hartenstein",
+    "normalized_name": "isaiah hartenstein",
+    "salary_2025_26": 28500000,
+    "flat_salary": 28500000,
+    "contract_years": 2
+  },
+  "wiggian01": {
+    "name": "Andrew Wiggins",
+    "normalized_name": "andrew wiggins",
+    "salary_2025_26": 28223215,
+    "flat_salary": 29196430,
+    "contract_years": 2
+  },
+  "whitede01": {
+    "name": "Derrick White",
+    "normalized_name": "derrick white",
+    "salary_2025_26": 28100000,
+    "flat_salary": 31472000,
+    "contract_years": 4
+  },
+  "barrerj01": {
+    "name": "RJ Barrett",
+    "normalized_name": "rj barrett",
+    "salary_2025_26": 27705357,
+    "flat_salary": 28660714,
+    "contract_years": 2
+  },
+  "simonan01": {
+    "name": "Anfernee Simons",
+    "normalized_name": "anfernee simons",
+    "salary_2025_26": 27678571,
+    "flat_salary": 27678571,
+    "contract_years": 1
+  },
+  "vassede01": {
+    "name": "Devin Vassell",
+    "normalized_name": "devin vassell",
+    "salary_2025_26": 27000000,
+    "flat_salary": 26413044,
+    "contract_years": 4
+  },
+  "roziete01": {
+    "name": "Terry Rozier",
+    "normalized_name": "terry rozier",
+    "salary_2025_26": 26643031,
+    "flat_salary": 26643031,
+    "contract_years": 1
+  },
+  "harrito02": {
+    "name": "Tobias Harris",
+    "normalized_name": "tobias harris",
+    "salary_2025_26": 26634146,
+    "flat_salary": 26634146,
+    "contract_years": 1
+  },
+  "collijo01": {
+    "name": "John Collins",
+    "normalized_name": "john collins",
+    "salary_2025_26": 26580000,
+    "flat_salary": 26580000,
+    "contract_years": 1
+  },
+  "greendr01": {
+    "name": "Draymond Green",
+    "normalized_name": "draymond green",
+    "salary_2025_26": 25892857,
+    "flat_salary": 26785714,
+    "contract_years": 2
+  },
+  "claxtni01": {
+    "name": "Nic Claxton",
+    "normalized_name": "nic claxton",
+    "salary_2025_26": 25352272,
+    "flat_salary": 23147728,
+    "contract_years": 3
+  },
+  "turnemy01": {
+    "name": "Myles Turner",
+    "normalized_name": "myles turner",
+    "salary_2025_26": 25318251,
+    "flat_salary": 27217120,
+    "contract_years": 4
+  },
+  "murphtr02": {
+    "name": "Trey Murphy III",
+    "normalized_name": "trey murphy",
+    "salary_2025_26": 25000000,
+    "flat_salary": 28000000,
+    "contract_years": 4
+  },
+  "giddejo01": {
+    "name": "Josh Giddey",
+    "normalized_name": "josh giddey",
+    "salary_2025_26": 25000000,
+    "flat_salary": 25000000,
+    "contract_years": 4
+  },
+  "bridgmi02": {
+    "name": "Miles Bridges",
+    "normalized_name": "miles bridges",
+    "salary_2025_26": 25000000,
+    "flat_salary": 23913044,
+    "contract_years": 2
+  },
+  "vanvlfr01": {
+    "name": "Fred VanVleet",
+    "normalized_name": "fred vanvleet",
+    "salary_2025_26": 25000000,
+    "flat_salary": 25000000,
+    "contract_years": 2
+  },
+  "bridgmi01": {
+    "name": "Mikal Bridges",
+    "normalized_name": "mikal bridges",
+    "salary_2025_26": 24900000,
+    "flat_salary": 34980000,
+    "contract_years": 5
+  },
+  "derozde01": {
+    "name": "DeMar DeRozan",
+    "normalized_name": "demar derozan",
+    "salary_2025_26": 24570000,
+    "flat_salary": 25155000,
+    "contract_years": 2
+  },
+  "mcdanja02": {
+    "name": "Jaden McDaniels",
+    "normalized_name": "jaden mcdaniels",
+    "salary_2025_26": 24393104,
+    "flat_salary": 27103448,
+    "contract_years": 4
+  },
+  "huntede01": {
+    "name": "De'Andre Hunter",
+    "normalized_name": "deandre hunter",
+    "salary_2025_26": 23303571,
+    "flat_salary": 24107142,
+    "contract_years": 2
+  },
+  "gordoaa01": {
+    "name": "Aaron Gordon",
+    "normalized_name": "aaron gordon",
+    "salary_2025_26": 22841455,
+    "flat_salary": 32973374,
+    "contract_years": 4
+  },
+  "kuminjo01": {
+    "name": "Jonathan Kuminga",
+    "normalized_name": "jonathan kuminga",
+    "salary_2025_26": 22500000,
+    "flat_salary": 23400000,
+    "contract_years": 2
+  },
+  "kuzmaky01": {
+    "name": "Kyle Kuzma",
+    "normalized_name": "kyle kuzma",
+    "salary_2025_26": 22410605,
+    "flat_salary": 21377878,
+    "contract_years": 2
+  },
+  "caldwke01": {
+    "name": "Kentavious Caldwell-Pope",
+    "normalized_name": "kentavious caldwellpope",
+    "salary_2025_26": 21621500,
+    "flat_salary": 21621500,
+    "contract_years": 2
+  },
+  "smartma01": {
+    "name": "Marcus Smart",
+    "normalized_name": "marcus smart",
+    "salary_2025_26": 26720855,
+    "flat_salary": 16055778,
+    "contract_years": 2
+  },
+  "reidna01": {
+    "name": "Naz Reid",
+    "normalized_name": "naz reid",
+    "salary_2025_26": 21551724,
+    "flat_salary": 25000000,
+    "contract_years": 5
+  },
+  "vucevni01": {
+    "name": "Nikola Vu\u00c4\u008devi\u00c4\u0087",
+    "normalized_name": "nikola vuaevia",
+    "salary_2025_26": 21481481,
+    "flat_salary": 21481481,
+    "contract_years": 1
+  },
+  "brookdi01": {
+    "name": "Dillon Brooks",
+    "normalized_name": "dillon brooks",
+    "salary_2025_26": 21124110,
+    "flat_salary": 20558418,
+    "contract_years": 2
+  },
+  "johnsca02": {
+    "name": "Cameron Johnson",
+    "normalized_name": "cameron johnson",
+    "salary_2025_26": 21057065,
+    "flat_salary": 22059782,
+    "contract_years": 2
+  },
+  "powelno01": {
+    "name": "Norman Powell",
+    "normalized_name": "norman powell",
+    "salary_2025_26": 20482758,
+    "flat_salary": 20482758,
+    "contract_years": 1
+  },
+  "allenja01": {
+    "name": "Jarrett Allen",
+    "normalized_name": "jarrett allen",
+    "salary_2025_26": 20000000,
+    "flat_salary": 27680000,
+    "contract_years": 4
+  },
+  "poeltja01": {
+    "name": "Jakob Poeltl",
+    "normalized_name": "jakob poeltl",
+    "salary_2025_26": 19500000,
+    "flat_salary": 24616800,
+    "contract_years": 5
+  },
+  "hartjo01": {
+    "name": "Josh Hart",
+    "normalized_name": "josh hart",
+    "salary_2025_26": 19472240,
+    "flat_salary": 20923760,
+    "contract_years": 3
+  },
+  "nurkiju01": {
+    "name": "Jusuf Nurki\u00c4\u0087",
+    "normalized_name": "jusuf nurkia",
+    "salary_2025_26": 19375000,
+    "flat_salary": 19375000,
+    "contract_years": 1
+  },
+  "barneha02": {
+    "name": "Harrison Barnes",
+    "normalized_name": "harrison barnes",
+    "salary_2025_26": 19000000,
+    "flat_salary": 19000000,
+    "contract_years": 1
+  },
+  "sextoco01": {
+    "name": "Collin Sexton",
+    "normalized_name": "collin sexton",
+    "salary_2025_26": 18975000,
+    "flat_salary": 18975000,
+    "contract_years": 1
+  },
+  "monkma01": {
+    "name": "Malik Monk",
+    "normalized_name": "malik monk",
+    "salary_2025_26": 18797619,
+    "flat_salary": 20190035,
+    "contract_years": 3
+  },
+  "aldamsa01": {
+    "name": "Santi Aldama",
+    "normalized_name": "santi aldama",
+    "salary_2025_26": 18485916,
+    "flat_salary": 17500001,
+    "contract_years": 3
+  },
+  "hachiru01": {
+    "name": "Rui Hachimura",
+    "normalized_name": "rui hachimura",
+    "salary_2025_26": 18259259,
+    "flat_salary": 18259259,
+    "contract_years": 1
+  },
+  "dortlu01": {
+    "name": "Luguentz Dort",
+    "normalized_name": "luguentz dort",
+    "salary_2025_26": 18222222,
+    "flat_salary": 18222222,
+    "contract_years": 2
+  },
+  "carusal01": {
+    "name": "Alex Caruso",
+    "normalized_name": "alex caruso",
+    "salary_2025_26": 18102000,
+    "flat_salary": 20274240,
+    "contract_years": 4
+  },
+  "zubaciv01": {
+    "name": "Ivica Zubac",
+    "normalized_name": "ivica zubac",
+    "salary_2025_26": 18102000,
+    "flat_salary": 19550160,
+    "contract_years": 3
+  },
+  "nembhan01": {
+    "name": "Andrew Nembhard",
+    "normalized_name": "andrew nembhard",
+    "salary_2025_26": 18102000,
+    "flat_salary": 19550160,
+    "contract_years": 3
+  },
+  "colliza01": {
+    "name": "Zach Collins",
+    "normalized_name": "zach collins",
+    "salary_2025_26": 18080496,
+    "flat_salary": 18080496,
+    "contract_years": 1
+  },
+  "willipa01": {
+    "name": "Patrick Williams",
+    "normalized_name": "patrick williams",
+    "salary_2025_26": 18000000,
+    "flat_salary": 18000000,
+    "contract_years": 4
+  },
+  "huertke01": {
+    "name": "Kevin Huerter",
+    "normalized_name": "kevin huerter",
+    "salary_2025_26": 17991071,
+    "flat_salary": 17991071,
+    "contract_years": 1
+  },
+  "johnske04": {
+    "name": "Keldon Johnson",
+    "normalized_name": "keldon johnson",
+    "salary_2025_26": 17500000,
+    "flat_salary": 17500000,
+    "contract_years": 2
+  },
+  "allengr01": {
+    "name": "Grayson Allen",
+    "normalized_name": "grayson allen",
+    "salary_2025_26": 16875000,
+    "flat_salary": 18125000,
+    "contract_years": 3
+  },
+  "robindu01": {
+    "name": "Duncan Robinson",
+    "normalized_name": "duncan robinson",
+    "salary_2025_26": 26722692,
+    "flat_salary": 19288957,
+    "contract_years": 3
+  },
+  "thompkl01": {
+    "name": "Klay Thompson",
+    "normalized_name": "klay thompson",
+    "salary_2025_26": 16666667,
+    "flat_salary": 17063492,
+    "contract_years": 2
+  },
+  "bogdabo01": {
+    "name": "Bogdan Bogdanovi\u00c4\u0087",
+    "normalized_name": "bogdan bogdanovia",
+    "salary_2025_26": 16020000,
+    "flat_salary": 16020000,
+    "contract_years": 2
+  },
+  "strusma01": {
+    "name": "Max Strus",
+    "normalized_name": "max strus",
+    "salary_2025_26": 15936452,
+    "flat_salary": 16298644,
+    "contract_years": 2
+  },
+  "mannte01": {
+    "name": "Terance Mann",
+    "normalized_name": "terance mann",
+    "salary_2025_26": 15500000,
+    "flat_salary": 15666667,
+    "contract_years": 3
+  },
+  "banchpa01": {
+    "name": "Paolo Banchero",
+    "normalized_name": "paolo banchero",
+    "salary_2025_26": 15334769,
+    "flat_salary": 42672462,
+    "contract_years": 6
+  },
+  "alexani01": {
+    "name": "Nickeil Alexander-Walker",
+    "normalized_name": "nickeil alexanderwalker",
+    "salary_2025_26": 15161800,
+    "flat_salary": 15161800,
+    "contract_years": 4
+  },
+  "okongon01": {
+    "name": "Onyeka Okongwu",
+    "normalized_name": "onyeka okongwu",
+    "salary_2025_26": 15000000,
+    "flat_salary": 16000000,
+    "contract_years": 3
+  },
+  "isaacjo01": {
+    "name": "Jonathan Isaac",
+    "normalized_name": "jonathan isaac",
+    "salary_2025_26": 15000000,
+    "flat_salary": 14750000,
+    "contract_years": 4
+  },
+  "stewais01": {
+    "name": "Isaiah Stewart",
+    "normalized_name": "isaiah stewart",
+    "salary_2025_26": 15000000,
+    "flat_salary": 15000000,
+    "contract_years": 3
+  },
+  "gaffoda01": {
+    "name": "Daniel Gafford",
+    "normalized_name": "daniel gafford",
+    "salary_2025_26": 14386320,
+    "flat_salary": 17191652,
+    "contract_years": 4
+  },
+  "avdijde01": {
+    "name": "Deni Avdija",
+    "normalized_name": "deni avdija",
+    "salary_2025_26": 14375000,
+    "flat_salary": 13125000,
+    "contract_years": 3
+  },
+  "clarkjo01": {
+    "name": "Jordan Clarkson",
+    "normalized_name": "jordan clarkson",
+    "salary_2025_26": 16581988,
+    "flat_salary": 16581988,
+    "contract_years": 1
+  },
+  "washipj01": {
+    "name": "P.J. Washington",
+    "normalized_name": "pj washington",
+    "salary_2025_26": 14152174,
+    "flat_salary": 20582923,
+    "contract_years": 5
+  },
+  "adamsst01": {
+    "name": "Steven Adams",
+    "normalized_name": "steven adams",
+    "salary_2025_26": 14130434,
+    "flat_salary": 13000000,
+    "contract_years": 3
+  },
+  "schrode01": {
+    "name": "Dennis Schr\u00c3\u00b6der",
+    "normalized_name": "dennis schrader",
+    "salary_2025_26": 14104000,
+    "flat_salary": 14809200,
+    "contract_years": 3
+  },
+  "leverca01": {
+    "name": "Caris LeVert",
+    "normalized_name": "caris levert",
+    "salary_2025_26": 14104000,
+    "flat_salary": 14456600,
+    "contract_years": 2
+  },
+  "toppiob01": {
+    "name": "Obi Toppin",
+    "normalized_name": "obi toppin",
+    "salary_2025_26": 14000000,
+    "flat_salary": 15008333,
+    "contract_years": 3
+  },
+  "kispeco01": {
+    "name": "Corey Kispert",
+    "normalized_name": "corey kispert",
+    "salary_2025_26": 13975000,
+    "flat_salary": 13512500,
+    "contract_years": 4
+  },
+  "joneshe01": {
+    "name": "Herbert Jones",
+    "normalized_name": "herbert jones",
+    "salary_2025_26": 13937574,
+    "flat_salary": 19283450,
+    "contract_years": 5
+  },
+  "reaveau01": {
+    "name": "Austin Reaves",
+    "normalized_name": "austin reaves",
+    "salary_2025_26": 13937574,
+    "flat_salary": 14418180,
+    "contract_years": 2
+  },
+  "flaggco01": {
+    "name": "Cooper Flagg",
+    "normalized_name": "cooper flagg",
+    "salary_2025_26": 13825920,
+    "flat_salary": 15682556,
+    "contract_years": 4
+  },
+  "holmgch01": {
+    "name": "Chet Holmgren",
+    "normalized_name": "chet holmgren",
+    "salary_2025_26": 13731368,
+    "flat_salary": 42405228,
+    "contract_years": 6
+  },
+  "greenjo02": {
+    "name": "Josh Green",
+    "normalized_name": "josh green",
+    "salary_2025_26": 13666667,
+    "flat_salary": 14172840,
+    "contract_years": 2
+  },
+  "willigr01": {
+    "name": "Grant Williams",
+    "normalized_name": "grant williams",
+    "salary_2025_26": 13645500,
+    "flat_salary": 13955625,
+    "contract_years": 2
+  },
+  "portibo01": {
+    "name": "Bobby Portis",
+    "normalized_name": "bobby portis",
+    "salary_2025_26": 13445754,
+    "flat_salary": 14521414,
+    "contract_years": 3
+  },
+  "olynyke01": {
+    "name": "Kelly Olynyk",
+    "normalized_name": "kelly olynyk",
+    "salary_2025_26": 13445122,
+    "flat_salary": 13445122,
+    "contract_years": 1
+  },
+  "wembavi01": {
+    "name": "Victor Wembanyama",
+    "normalized_name": "victor wembanyama",
+    "salary_2025_26": 13376880,
+    "flat_salary": 15122563,
+    "contract_years": 2
+  },
+  "williro04": {
+    "name": "Robert Williams",
+    "normalized_name": "robert williams",
+    "salary_2025_26": 13285713,
+    "flat_salary": 13285713,
+    "contract_years": 1
+  },
+  "risacza01": {
+    "name": "Zaccharie Risacher",
+    "normalized_name": "zaccharie risacher",
+    "salary_2025_26": 13197720,
+    "flat_salary": 14819466,
+    "contract_years": 3
+  },
+  "anthoco01": {
+    "name": "Cole Anthony",
+    "normalized_name": "cole anthony",
+    "salary_2025_26": 15396274,
+    "flat_salary": 15396274,
+    "contract_years": 1
+  },
+  "robinmi01": {
+    "name": "Mitchell Robinson",
+    "normalized_name": "mitchell robinson",
+    "salary_2025_26": 12954546,
+    "flat_salary": 12954546,
+    "contract_years": 1
+  },
+  "whiteco01": {
+    "name": "Coby White",
+    "normalized_name": "coby white",
+    "salary_2025_26": 12888889,
+    "flat_salary": 12888889,
+    "contract_years": 1
+  },
+  "finnedo01": {
+    "name": "Dorian Finney-Smith",
+    "normalized_name": "dorian finneysmith",
+    "salary_2025_26": 12700000,
+    "flat_salary": 13176250,
+    "contract_years": 4
+  },
+  "clarkbr01": {
+    "name": "Brandon Clarke",
+    "normalized_name": "brandon clarke",
+    "salary_2025_26": 12500000,
+    "flat_salary": 12500000,
+    "contract_years": 2
+  },
+  "harpedy01": {
+    "name": "Dylan Harper",
+    "normalized_name": "dylan harper",
+    "salary_2025_26": 12370320,
+    "flat_salary": 14035028,
+    "contract_years": 4
+  },
+  "joeis01": {
+    "name": "Isaiah Joe",
+    "normalized_name": "isaiah joe",
+    "salary_2025_26": 12362338,
+    "flat_salary": 11669450,
+    "contract_years": 3
+  },
+  "smithja05": {
+    "name": "Jabari Smith Jr.",
+    "normalized_name": "jabari smith",
+    "salary_2025_26": 12350392,
+    "flat_salary": 22391732,
+    "contract_years": 6
+  },
+  "divindo01": {
+    "name": "Donte DiVincenzo",
+    "normalized_name": "donte divincenzo",
+    "salary_2025_26": 11990000,
+    "flat_salary": 12262500,
+    "contract_years": 2
+  },
+  "millebr02": {
+    "name": "Brandon Miller",
+    "normalized_name": "brandon miller",
+    "salary_2025_26": 11968800,
+    "flat_salary": 13536713,
+    "contract_years": 2
+  },
+  "sarral01": {
+    "name": "Alex Sarr",
+    "normalized_name": "alex sarr",
+    "salary_2025_26": 11808240,
+    "flat_salary": 13263573,
+    "contract_years": 3
+  },
+  "mitchda01": {
+    "name": "Davion Mitchell",
+    "normalized_name": "davion mitchell",
+    "salary_2025_26": 11600000,
+    "flat_salary": 12000000,
+    "contract_years": 2
+  },
+  "moodymo01": {
+    "name": "Moses Moody",
+    "normalized_name": "moses moody",
+    "salary_2025_26": 11574075,
+    "flat_salary": 12500000,
+    "contract_years": 3
+  },
+  "vandeja01": {
+    "name": "Jarred Vanderbilt",
+    "normalized_name": "jarred vanderbilt",
+    "salary_2025_26": 11571429,
+    "flat_salary": 12428571,
+    "contract_years": 3
+  },
+  "thybuma01": {
+    "name": "Matisse Thybulle",
+    "normalized_name": "matisse thybulle",
+    "salary_2025_26": 11550000,
+    "flat_salary": 11550000,
+    "contract_years": 1
+  },
+  "vincega01": {
+    "name": "Gabe Vincent",
+    "normalized_name": "gabe vincent",
+    "salary_2025_26": 11500000,
+    "flat_salary": 11500000,
+    "contract_years": 1
+  },
+  "murrake02": {
+    "name": "Keegan Murray",
+    "normalized_name": "keegan murray",
+    "salary_2025_26": 11144093,
+    "flat_salary": 25190682,
+    "contract_years": 6
+  },
+  "edgecvj01": {
+    "name": "VJ Edgecombe",
+    "normalized_name": "vj edgecombe",
+    "salary_2025_26": 11108880,
+    "flat_salary": 12609552,
+    "contract_years": 4
+  },
+  "nesmiaa01": {
+    "name": "Aaron Nesmith",
+    "normalized_name": "aaron nesmith",
+    "salary_2025_26": 11000000,
+    "flat_salary": 15597360,
+    "contract_years": 4
+  },
+  "kornelu01": {
+    "name": "Luke Kornet",
+    "normalized_name": "luke kornet",
+    "salary_2025_26": 11000000,
+    "flat_salary": 10175000,
+    "contract_years": 4
+  },
+  "okorois01": {
+    "name": "Isaac Okoro",
+    "normalized_name": "isaac okoro",
+    "salary_2025_26": 11000000,
+    "flat_salary": 11407407,
+    "contract_years": 2
+  },
+  "klebima01": {
+    "name": "Maxi Kleber",
+    "normalized_name": "maxi kleber",
+    "salary_2025_26": 11000000,
+    "flat_salary": 11000000,
+    "contract_years": 1
+  },
+  "kennalu01": {
+    "name": "Luke Kennard",
+    "normalized_name": "luke kennard",
+    "salary_2025_26": 11000000,
+    "flat_salary": 11000000,
+    "contract_years": 1
+  },
+  "cartewe01": {
+    "name": "Wendell Carter Jr.",
+    "normalized_name": "wendell carter",
+    "salary_2025_26": 10850000,
+    "flat_salary": 17375120,
+    "contract_years": 4
+  },
+  "conlemi01": {
+    "name": "Mike Conley",
+    "normalized_name": "mike conley",
+    "salary_2025_26": 10774038,
+    "flat_salary": 10774038,
+    "contract_years": 1
+  },
+  "hendesc01": {
+    "name": "Scoot Henderson",
+    "normalized_name": "scoot henderson",
+    "salary_2025_26": 10748040,
+    "flat_salary": 12166782,
+    "contract_years": 2
+  },
+  "sheppre01": {
+    "name": "Reed Sheppard",
+    "normalized_name": "reed sheppard",
+    "salary_2025_26": 10603560,
+    "flat_salary": 11918022,
+    "contract_years": 3
+  },
+  "valanjo01": {
+    "name": "Jonas Valan\u00c4\u008di\u00c5\u00abnas",
+    "normalized_name": "jonas valanaianas",
+    "salary_2025_26": 10395000,
+    "flat_salary": 10197500,
+    "contract_years": 2
+  },
+  "mccontj01": {
+    "name": "T.J. McConnell",
+    "normalized_name": "tj mcconnell",
+    "salary_2025_26": 10200000,
+    "flat_salary": 11200000,
+    "contract_years": 4
+  },
+  "onealro01": {
+    "name": "Royce O'Neale",
+    "normalized_name": "royce oneale",
+    "salary_2025_26": 10125000,
+    "flat_salary": 10875000,
+    "contract_years": 3
+  },
+  "iveyja01": {
+    "name": "Jaden Ivey",
+    "normalized_name": "jaden ivey",
+    "salary_2025_26": 10107163,
+    "flat_salary": 10107163,
+    "contract_years": 1
+  },
+  "wiggiaa01": {
+    "name": "Aaron Wiggins",
+    "normalized_name": "aaron wiggins",
+    "salary_2025_26": 10102803,
+    "flat_salary": 9004674,
+    "contract_years": 4
+  },
+  "hausesa01": {
+    "name": "Sam Hauser",
+    "normalized_name": "sam hauser",
+    "salary_2025_26": 10044644,
+    "flat_salary": 11250000,
+    "contract_years": 4
+  },
+  "knuepko01": {
+    "name": "Kon Knueppel",
+    "normalized_name": "kon knueppel",
+    "salary_2025_26": 10015680,
+    "flat_salary": 11371754,
+    "contract_years": 4
+  },
+  "jonesde02": {
+    "name": "Derrick Jones Jr.",
+    "normalized_name": "derrick jones",
+    "salary_2025_26": 10000000,
+    "flat_salary": 10238095,
+    "contract_years": 2
+  },
+  "balllo01": {
+    "name": "Lonzo Ball",
+    "normalized_name": "lonzo ball",
+    "salary_2025_26": 10000000,
+    "flat_salary": 10000000,
+    "contract_years": 2
+  },
+  "thompam01": {
+    "name": "Amen Thompson",
+    "normalized_name": "amen thompson",
+    "salary_2025_26": 9690600,
+    "flat_salary": 10974604,
+    "contract_years": 2
+  },
+  "martica02": {
+    "name": "Caleb Martin",
+    "normalized_name": "caleb martin",
+    "salary_2025_26": 9594044,
+    "flat_salary": 9655629,
+    "contract_years": 3
+  },
+  "castlst01": {
+    "name": "Stephon Castle",
+    "normalized_name": "stephon castle",
+    "salary_2025_26": 9560520,
+    "flat_salary": 10748860,
+    "contract_years": 3
+  },
+  "connapa01": {
+    "name": "Pat Connaughton",
+    "normalized_name": "pat connaughton",
+    "salary_2025_26": 9423869,
+    "flat_salary": 9423869,
+    "contract_years": 1
+  },
+  "hieldbu01": {
+    "name": "Buddy Hield",
+    "normalized_name": "buddy hield",
+    "salary_2025_26": 9219512,
+    "flat_salary": 9658536,
+    "contract_years": 3
+  },
+  "anderky01": {
+    "name": "Kyle Anderson",
+    "normalized_name": "kyle anderson",
+    "salary_2025_26": 9219512,
+    "flat_salary": 9439024,
+    "contract_years": 2
+  },
+  "mathube01": {
+    "name": "Bennedict Mathurin",
+    "normalized_name": "bennedict mathurin",
+    "salary_2025_26": 9187573,
+    "flat_salary": 9187573,
+    "contract_years": 1
+  },
+  "baileac01": {
+    "name": "Ace Bailey",
+    "normalized_name": "ace bailey",
+    "salary_2025_26": 9069840,
+    "flat_salary": 10302446,
+    "contract_years": 4
+  },
+  "marshna01": {
+    "name": "Naji Marshall",
+    "normalized_name": "naji marshall",
+    "salary_2025_26": 9000000,
+    "flat_salary": 9214286,
+    "contract_years": 2
+  },
+  "smithja04": {
+    "name": "Jalen Smith",
+    "normalized_name": "jalen smith",
+    "salary_2025_26": 9000000,
+    "flat_salary": 9214286,
+    "contract_years": 2
+  },
+  "jeromty01": {
+    "name": "Ty Jerome",
+    "normalized_name": "ty jerome",
+    "salary_2025_26": 8781000,
+    "flat_salary": 9220050,
+    "contract_years": 3
+  },
+  "thompau01": {
+    "name": "Ausar Thompson",
+    "normalized_name": "ausar thompson",
+    "salary_2025_26": 8775000,
+    "flat_salary": 9946462,
+    "contract_years": 2
+  },
+  "lopezbr01": {
+    "name": "Brook Lopez",
+    "normalized_name": "brook lopez",
+    "salary_2025_26": 8750000,
+    "flat_salary": 8968750,
+    "contract_years": 2
+  },
+  "grimequ01": {
+    "name": "Quentin Grimes",
+    "normalized_name": "quentin grimes",
+    "salary_2025_26": 8741209,
+    "flat_salary": 8741209,
+    "contract_years": 1
+  },
+  "hollaro01": {
+    "name": "Ron Holland",
+    "normalized_name": "ron holland",
+    "salary_2025_26": 8657280,
+    "flat_salary": 9739354,
+    "contract_years": 3
+  },
+  "merrisa01": {
+    "name": "Sam Merrill",
+    "normalized_name": "sam merrill",
+    "salary_2025_26": 8482144,
+    "flat_salary": 9500000,
+    "contract_years": 4
+  },
+  "willija07": {
+    "name": "Jaylin Williams",
+    "normalized_name": "jaylin williams",
+    "salary_2025_26": 8450704,
+    "flat_salary": 8000000,
+    "contract_years": 3
+  },
+  "sharpsh01": {
+    "name": "Shaedon Sharpe",
+    "normalized_name": "shaedon sharpe",
+    "salary_2025_26": 8399983,
+    "flat_salary": 19679997,
+    "contract_years": 5
+  },
+  "oubreke01": {
+    "name": "Kelly Oubre Jr.",
+    "normalized_name": "kelly oubre",
+    "salary_2025_26": 8382150,
+    "flat_salary": 8382150,
+    "contract_years": 1
+  },
+  "bitadgo01": {
+    "name": "Goga Bitadze",
+    "normalized_name": "goga bitadze",
+    "salary_2025_26": 8333333,
+    "flat_salary": 7971014,
+    "contract_years": 2
+  },
+  "fontesi01": {
+    "name": "Simone Fontecchio",
+    "normalized_name": "simone fontecchio",
+    "salary_2025_26": 8307692,
+    "flat_salary": 8307692,
+    "contract_years": 1
+  },
+  "johnstr03": {
+    "name": "Tre Johnson",
+    "normalized_name": "tre johnson",
+    "salary_2025_26": 8237640,
+    "flat_salary": 9359783,
+    "contract_years": 4
+  },
+  "niangge01": {
+    "name": "Georges Niang",
+    "normalized_name": "georges niang",
+    "salary_2025_26": 8200000,
+    "flat_salary": 8200000,
+    "contract_years": 1
+  },
+  "nnajize01": {
+    "name": "Zeke Nnaji",
+    "normalized_name": "zeke nnaji",
+    "salary_2025_26": 8177778,
+    "flat_salary": 7703704,
+    "contract_years": 3
+  },
+  "micicva01": {
+    "name": "Vasilije Mici\u00c4\u0087",
+    "normalized_name": "vasilije micia",
+    "salary_2025_26": 8109150,
+    "flat_salary": 8109150,
+    "contract_years": 1
+  },
+  "manntr01": {
+    "name": "Tre Mann",
+    "normalized_name": "tre mann",
+    "salary_2025_26": 8000000,
+    "flat_salary": 8000000,
+    "contract_years": 3
+  },
+  "jonestr01": {
+    "name": "Tre Jones",
+    "normalized_name": "tre jones",
+    "salary_2025_26": 8000000,
+    "flat_salary": 8000000,
+    "contract_years": 3
+  },
+  "looneke01": {
+    "name": "Kevon Looney",
+    "normalized_name": "kevon looney",
+    "salary_2025_26": 8000000,
+    "flat_salary": 8000000,
+    "contract_years": 2
+  },
+  "landajo01": {
+    "name": "Jock Landale",
+    "normalized_name": "jock landale",
+    "salary_2025_26": 10296274,
+    "flat_salary": 10296274,
+    "contract_years": 1
+  },
+  "blackan01": {
+    "name": "Anthony Black",
+    "normalized_name": "anthony black",
+    "salary_2025_26": 7970280,
+    "flat_salary": 9038298,
+    "contract_years": 2
+  },
+  "salauti01": {
+    "name": "Tidjane Sala\u00c3\u00bcn",
+    "normalized_name": "tidjane salaa14n",
+    "salary_2025_26": 7863240,
+    "flat_salary": 8848918,
+    "contract_years": 3
+  },
+  "chrisma02": {
+    "name": "Max Christie",
+    "normalized_name": "max christie",
+    "salary_2025_26": 7714286,
+    "flat_salary": 8285714,
+    "contract_years": 3
+  },
+  "daniedy01": {
+    "name": "Dyson Daniels",
+    "normalized_name": "dyson daniels",
+    "salary_2025_26": 7707709,
+    "flat_salary": 21541542,
+    "contract_years": 5
+  },
+  "jacksis01": {
+    "name": "Isaiah Jackson",
+    "normalized_name": "isaiah jackson",
+    "salary_2025_26": 7600000,
+    "flat_salary": 7000000,
+    "contract_years": 3
+  },
+  "fearsje01": {
+    "name": "Jeremiah Fears",
+    "normalized_name": "jeremiah fears",
+    "salary_2025_26": 7520040,
+    "flat_salary": 8548407,
+    "contract_years": 4
+  },
+  "dosunay01": {
+    "name": "Ayo Dosunmu",
+    "normalized_name": "ayo dosunmu",
+    "salary_2025_26": 7518518,
+    "flat_salary": 7518518,
+    "contract_years": 1
+  },
+  "coulibi01": {
+    "name": "Bilal Coulibaly",
+    "normalized_name": "bilal coulibaly",
+    "salary_2025_26": 7275600,
+    "flat_salary": 8257806,
+    "contract_years": 2
+  },
+  "pritcpa01": {
+    "name": "Payton Pritchard",
+    "normalized_name": "payton pritchard",
+    "salary_2025_26": 7232143,
+    "flat_salary": 7767857,
+    "contract_years": 3
+  },
+  "clingdo01": {
+    "name": "Donovan Clingan",
+    "normalized_name": "donovan clingan",
+    "salary_2025_26": 7178400,
+    "flat_salary": 8082873,
+    "contract_years": 3
+  },
+  "willike04": {
+    "name": "Kenrich Williams",
+    "normalized_name": "kenrich williams",
+    "salary_2025_26": 7163000,
+    "flat_salary": 7163000,
+    "contract_years": 2
+  },
+  "sochaje01": {
+    "name": "Jeremy Sochan",
+    "normalized_name": "jeremy sochan",
+    "salary_2025_26": 7096231,
+    "flat_salary": 7096231,
+    "contract_years": 1
+  },
+  "jonesty01": {
+    "name": "Tyus Jones",
+    "normalized_name": "tyus jones",
+    "salary_2025_26": 7000000,
+    "flat_salary": 7000000,
+    "contract_years": 1
+  },
+  "demineg01": {
+    "name": "Egor D\u00d1\u0091min",
+    "normalized_name": "egor dnmin",
+    "salary_2025_26": 6889200,
+    "flat_salary": 7835170,
+    "contract_years": 4
+  },
+  "carteje01": {
+    "name": "Jevon Carter",
+    "normalized_name": "jevon carter",
+    "salary_2025_26": 6809524,
+    "flat_salary": 6809524,
+    "contract_years": 1
+  },
+  "capelca01": {
+    "name": "Clint Capela",
+    "normalized_name": "clint capela",
+    "salary_2025_26": 6700000,
+    "flat_salary": 7035000,
+    "contract_years": 3
+  },
+  "diengou01": {
+    "name": "Ousmane Dieng",
+    "normalized_name": "ousmane dieng",
+    "salary_2025_26": 6670882,
+    "flat_salary": 6670882,
+    "contract_years": 1
+  },
+  "walkeja02": {
+    "name": "Jarace Walker",
+    "normalized_name": "jarace walker",
+    "salary_2025_26": 6665520,
+    "flat_salary": 7572031,
+    "contract_years": 2
+  },
+  "wadede01": {
+    "name": "Dean Wade",
+    "normalized_name": "dean wade",
+    "salary_2025_26": 6623456,
+    "flat_salary": 6623456,
+    "contract_years": 1
+  },
+  "willija06": {
+    "name": "Jalen Williams",
+    "normalized_name": "jalen williams",
+    "salary_2025_26": 6580997,
+    "flat_salary": 41213500,
+    "contract_years": 6
+  },
+  "dilliro01": {
+    "name": "Rob Dillingham",
+    "normalized_name": "rob dillingham",
+    "salary_2025_26": 6576120,
+    "flat_salary": 7409552,
+    "contract_years": 3
+  },
+  "durenja01": {
+    "name": "Jalen Duren",
+    "normalized_name": "jalen duren",
+    "salary_2025_26": 6483144,
+    "flat_salary": 6483144,
+    "contract_years": 1
+  },
+  "agbajoc01": {
+    "name": "Ochai Agbaji",
+    "normalized_name": "ochai agbaji",
+    "salary_2025_26": 6383525,
+    "flat_salary": 6383525,
+    "contract_years": 1
+  },
+  "murraco01": {
+    "name": "Collin Murray-Boyles",
+    "normalized_name": "collin murrayboyles",
+    "salary_2025_26": 6332520,
+    "flat_salary": 7205691,
+    "contract_years": 4
+  },
+  "willima07": {
+    "name": "Mark Williams",
+    "normalized_name": "mark williams",
+    "salary_2025_26": 6276531,
+    "flat_salary": 6276531,
+    "contract_years": 1
+  },
+  "sharpda01": {
+    "name": "Day'Ron Sharpe",
+    "normalized_name": "dayron sharpe",
+    "salary_2025_26": 6250000,
+    "flat_salary": 6250000,
+    "contract_years": 2
+  },
+  "willizi02": {
+    "name": "Ziaire Williams",
+    "normalized_name": "ziaire williams",
+    "salary_2025_26": 6250000,
+    "flat_salary": 6250000,
+    "contract_years": 2
+  },
+  "konchjo01": {
+    "name": "John Konchar",
+    "normalized_name": "john konchar",
+    "salary_2025_26": 6165000,
+    "flat_salary": 6165000,
+    "contract_years": 2
+  },
+  "hendrta01": {
+    "name": "Taylor Hendricks",
+    "normalized_name": "taylor hendricks",
+    "salary_2025_26": 6127080,
+    "flat_salary": 6966490,
+    "contract_years": 2
+  },
+  "beysa01": {
+    "name": "Saddiq Bey",
+    "normalized_name": "saddiq bey",
+    "salary_2025_26": 6118644,
+    "flat_salary": 6279661,
+    "contract_years": 2
+  },
+  "edeyza01": {
+    "name": "Zach Edey",
+    "normalized_name": "zach edey",
+    "salary_2025_26": 6045000,
+    "flat_salary": 6815232,
+    "contract_years": 3
+  },
+  "maluakh01": {
+    "name": "Khaman Maluach",
+    "normalized_name": "khaman maluach",
+    "salary_2025_26": 6016080,
+    "flat_salary": 6846700,
+    "contract_years": 4
+  },
+  "laravja01": {
+    "name": "Jake LaRavia",
+    "normalized_name": "jake laravia",
+    "salary_2025_26": 6000000,
+    "flat_salary": 6000000,
+    "contract_years": 2
+  },
+  "hardyja02": {
+    "name": "Jaden Hardy",
+    "normalized_name": "jaden hardy",
+    "salary_2025_26": 6000000,
+    "flat_salary": 6000000,
+    "contract_years": 3
+  },
+  "thomaca02": {
+    "name": "Cam Thomas",
+    "normalized_name": "cam thomas",
+    "salary_2025_26": 5993172,
+    "flat_salary": 5993172,
+    "contract_years": 1
+  },
+  "wallaca01": {
+    "name": "Cason Wallace",
+    "normalized_name": "cason wallace",
+    "salary_2025_26": 5820240,
+    "flat_salary": 6620523,
+    "contract_years": 2
+  },
+  "willico04": {
+    "name": "Cody Williams",
+    "normalized_name": "cody williams",
+    "salary_2025_26": 5742480,
+    "flat_salary": 6475990,
+    "contract_years": 3
+  },
+  "cowarce01": {
+    "name": "Cedric Coward",
+    "normalized_name": "cedric coward",
+    "salary_2025_26": 5715120,
+    "flat_salary": 6586466,
+    "contract_years": 4
+  },
+  "horfoal01": {
+    "name": "Al Horford",
+    "normalized_name": "al horford",
+    "salary_2025_26": 5685000,
+    "flat_salary": 5827125,
+    "contract_years": 2
+  },
+  "russeda01": {
+    "name": "D'Angelo Russell",
+    "normalized_name": "dangelo russell",
+    "salary_2025_26": 5685000,
+    "flat_salary": 5827125,
+    "contract_years": 2
+  },
+  "easonta01": {
+    "name": "Tari Eason",
+    "normalized_name": "tari eason",
+    "salary_2025_26": 5675766,
+    "flat_salary": 5675766,
+    "contract_years": 1
+  },
+  "highsha01": {
+    "name": "Haywood Highsmith",
+    "normalized_name": "haywood highsmith",
+    "salary_2025_26": 5616000,
+    "flat_salary": 5616000,
+    "contract_years": 1
+  },
+  "batumni01": {
+    "name": "Nicolas Batum",
+    "normalized_name": "nicolas batum",
+    "salary_2025_26": 5601600,
+    "flat_salary": 5741640,
+    "contract_years": 2
+  },
+  "howarje01": {
+    "name": "Jett Howard",
+    "normalized_name": "jett howard",
+    "salary_2025_26": 5529720,
+    "flat_salary": 6433830,
+    "contract_years": 2
+  },
+  "yabusgu01": {
+    "name": "Guerschon Yabusele",
+    "normalized_name": "guerschon yabusele",
+    "salary_2025_26": 5500000,
+    "flat_salary": 5637500,
+    "contract_years": 2
+  },
+  "buzelma01": {
+    "name": "Matas Buzelis",
+    "normalized_name": "matas buzelis",
+    "salary_2025_26": 5455560,
+    "flat_salary": 6251734,
+    "contract_years": 3
+  },
+  "essenno01": {
+    "name": "Noa Essengue",
+    "normalized_name": "noa essengue",
+    "salary_2025_26": 5429520,
+    "flat_salary": 6333486,
+    "contract_years": 4
+  },
+  "saricda01": {
+    "name": "Dario \u00c5\u00a0ari\u00c4\u0087",
+    "normalized_name": "dario a aria",
+    "salary_2025_26": 5426400,
+    "flat_salary": 5426400,
+    "contract_years": 1
+  },
+  "dunnkr01": {
+    "name": "Kris Dunn",
+    "normalized_name": "kris dunn",
+    "salary_2025_26": 5426400,
+    "flat_salary": 5555600,
+    "contract_years": 2
+  },
+  "terryda01": {
+    "name": "Dalen Terry",
+    "normalized_name": "dalen terry",
+    "salary_2025_26": 5399118,
+    "flat_salary": 5399118,
+    "contract_years": 1
+  },
+  "reedpa01": {
+    "name": "Paul Reed",
+    "normalized_name": "paul reed",
+    "salary_2025_26": 5335894,
+    "flat_salary": 5469292,
+    "contract_years": 2
+  },
+  "livelde01": {
+    "name": "Dereck Lively II",
+    "normalized_name": "dereck lively",
+    "salary_2025_26": 5253360,
+    "flat_salary": 6246246,
+    "contract_years": 2
+  },
+  "topicni01": {
+    "name": "Nikola Topi\u00c4\u0087",
+    "normalized_name": "nikola topia",
+    "salary_2025_26": 5182920,
+    "flat_salary": 6031630,
+    "contract_years": 3
+  },
+  "queende01": {
+    "name": "Derik Queen",
+    "normalized_name": "derik queen",
+    "salary_2025_26": 5157960,
+    "flat_salary": 6088950,
+    "contract_years": 4
+  },
+  "porteke02": {
+    "name": "Kevin Porter Jr.",
+    "normalized_name": "kevin porter",
+    "salary_2025_26": 5134000,
+    "flat_salary": 5262350,
+    "contract_years": 2
+  },
+  "drumman01": {
+    "name": "Andre Drummond",
+    "normalized_name": "andre drummond",
+    "salary_2025_26": 5000000,
+    "flat_salary": 5000000,
+    "contract_years": 1
+  },
+  "wagnemo01": {
+    "name": "Moritz Wagner",
+    "normalized_name": "moritz wagner",
+    "salary_2025_26": 5000000,
+    "flat_salary": 5000000,
+    "contract_years": 1
+  },
+  "richani01": {
+    "name": "Nick Richards",
+    "normalized_name": "nick richards",
+    "salary_2025_26": 5000000,
+    "flat_salary": 5000000,
+    "contract_years": 1
+  },
+  "dickgr01": {
+    "name": "Gradey Dick",
+    "normalized_name": "gradey dick",
+    "salary_2025_26": 4990560,
+    "flat_salary": 6061036,
+    "contract_years": 2
+  },
+  "branhma01": {
+    "name": "Malaki Branham",
+    "normalized_name": "malaki branham",
+    "salary_2025_26": 4962033,
+    "flat_salary": 4962033,
+    "contract_years": 1
+  },
+  "cartede02": {
+    "name": "Devin Carter",
+    "normalized_name": "devin carter",
+    "salary_2025_26": 4923720,
+    "flat_salary": 5817566,
+    "contract_years": 3
+  },
+  "braunch01": {
+    "name": "Christian Braun",
+    "normalized_name": "christian braun",
+    "salary_2025_26": 4921797,
+    "flat_salary": 21653633,
+    "contract_years": 6
+  },
+  "bryanca01": {
+    "name": "Carter Bryant",
+    "normalized_name": "carter bryant",
+    "salary_2025_26": 4900320,
+    "flat_salary": 5854965,
+    "contract_years": 4
+  },
+  "kesslwa01": {
+    "name": "Walker Kessler",
+    "normalized_name": "walker kessler",
+    "salary_2025_26": 4878938,
+    "flat_salary": 4878938,
+    "contract_years": 1
+  },
+  "hawkijo01": {
+    "name": "Jordan Hawkins",
+    "normalized_name": "jordan hawkins",
+    "salary_2025_26": 4741320,
+    "flat_salary": 5881608,
+    "contract_years": 2
+  },
+  "weslebl01": {
+    "name": "Blake Wesley",
+    "normalized_name": "blake wesley",
+    "salary_2025_26": 7022602,
+    "flat_salary": 7022602,
+    "contract_years": 1
+  },
+  "carrica01": {
+    "name": "Bub Carrington",
+    "normalized_name": "bub carrington",
+    "salary_2025_26": 4677600,
+    "flat_salary": 5611963,
+    "contract_years": 3
+  },
+  "sorbeth01": {
+    "name": "Thomas Sorber",
+    "normalized_name": "thomas sorber",
+    "salary_2025_26": 4655040,
+    "flat_salary": 5628183,
+    "contract_years": 4
+  },
+  "bufkiko01": {
+    "name": "Kobe Bufkin",
+    "normalized_name": "kobe bufkin",
+    "salary_2025_26": 4503720,
+    "flat_salary": 4503720,
+    "contract_years": 1
+  },
+  "alvarjo01": {
+    "name": "Jose Alvarado",
+    "normalized_name": "jose alvarado",
+    "salary_2025_26": 4500000,
+    "flat_salary": 4500000,
+    "contract_years": 2
+  },
+  "jovicni01": {
+    "name": "Nikola Jovi\u00c4\u0087",
+    "normalized_name": "nikola jovia",
+    "salary_2025_26": 4445417,
+    "flat_salary": 13369083,
+    "contract_years": 5
+  },
+  "wareke01": {
+    "name": "Kel'el Ware",
+    "normalized_name": "kelel ware",
+    "salary_2025_26": 4443360,
+    "flat_salary": 5411424,
+    "contract_years": 3
+  },
+  "yangha01": {
+    "name": "Yang Hansen",
+    "normalized_name": "yang hansen",
+    "salary_2025_26": 4422360,
+    "flat_salary": 5348397,
+    "contract_years": 4
+  },
+  "watsope01": {
+    "name": "Peyton Watson",
+    "normalized_name": "peyton watson",
+    "salary_2025_26": 4356476,
+    "flat_salary": 4356476,
+    "contract_years": 1
+  },
+  "mcbrimi01": {
+    "name": "Miles McBride",
+    "normalized_name": "miles mcbride",
+    "salary_2025_26": 4333333,
+    "flat_salary": 4144928,
+    "contract_years": 2
+  },
+  "georgke01": {
+    "name": "Keyonte George",
+    "normalized_name": "keyonte george",
+    "salary_2025_26": 4278960,
+    "flat_salary": 5421442,
+    "contract_years": 2
+  },
+  "mccaija01": {
+    "name": "Jared McCain",
+    "normalized_name": "jared mccain",
+    "salary_2025_26": 4221360,
+    "flat_salary": 5142743,
+    "contract_years": 3
+  },
+  "berinjo01": {
+    "name": "Joan Beringer",
+    "normalized_name": "joan beringer",
+    "salary_2025_26": 4201080,
+    "flat_salary": 5082911,
+    "contract_years": 4
+  },
+  "loveke01": {
+    "name": "Kevin Love",
+    "normalized_name": "kevin love",
+    "salary_2025_26": 4150000,
+    "flat_salary": 4150000,
+    "contract_years": 1
+  },
+  "knechda01": {
+    "name": "Dalton Knecht",
+    "normalized_name": "dalton knecht",
+    "salary_2025_26": 4010160,
+    "flat_salary": 4888033,
+    "contract_years": 3
+  },
+  "rolliry01": {
+    "name": "Ryan Rollins",
+    "normalized_name": "ryan rollins",
+    "salary_2025_26": 4000000,
+    "flat_salary": 4000000,
+    "contract_years": 3
+  },
+  "poweldw01": {
+    "name": "Dwight Powell",
+    "normalized_name": "dwight powell",
+    "salary_2025_26": 4000000,
+    "flat_salary": 4000000,
+    "contract_years": 1
+  },
+  "claytwa01": {
+    "name": "Walter Clayton",
+    "normalized_name": "walter clayton",
+    "salary_2025_26": 3991320,
+    "flat_salary": 4831118,
+    "contract_years": 4
+  },
+  "jaqueja01": {
+    "name": "Jaime Jaquez Jr.",
+    "normalized_name": "jaime jaquez",
+    "salary_2025_26": 3861600,
+    "flat_salary": 4900370,
+    "contract_years": 2
+  },
+  "traorno01": {
+    "name": "Nolan Traor\u00c3\u00a9",
+    "normalized_name": "nolan traora",
+    "salary_2025_26": 3811560,
+    "flat_salary": 4615970,
+    "contract_years": 4
+  },
+  "dasiltr01": {
+    "name": "Tristan Da Silva",
+    "normalized_name": "tristan da silva",
+    "salary_2025_26": 3809520,
+    "flat_salary": 4646395,
+    "contract_years": 3
+  },
+  "trentga02": {
+    "name": "Gary Trent Jr.",
+    "normalized_name": "gary trent",
+    "salary_2025_26": 3697105,
+    "flat_salary": 3789532,
+    "contract_years": 2
+  },
+  "podzibr01": {
+    "name": "Brandin Podziemski",
+    "normalized_name": "brandin podziemski",
+    "salary_2025_26": 3687960,
+    "flat_salary": 4683710,
+    "contract_years": 2
+  },
+  "mykhasv01": {
+    "name": "Svi Mykhailiuk",
+    "normalized_name": "svi mykhailiuk",
+    "salary_2025_26": 3675000,
+    "flat_salary": 3850000,
+    "contract_years": 3
+  },
+  "jakucka01": {
+    "name": "Kasparas Jaku\u00c4\u008dionis",
+    "normalized_name": "kasparas jakuaionis",
+    "salary_2025_26": 3658800,
+    "flat_salary": 4432652,
+    "contract_years": 4
+  },
+  "walteja01": {
+    "name": "Ja'Kobe Walter",
+    "normalized_name": "jakobe walter",
+    "salary_2025_26": 3638160,
+    "flat_salary": 4440044,
+    "contract_years": 3
+  },
+  "harriga01": {
+    "name": "Gary Harris",
+    "normalized_name": "gary harris",
+    "salary_2025_26": 3634153,
+    "flat_salary": 3725007,
+    "contract_years": 2
+  },
+  "whitmca01": {
+    "name": "Cam Whitmore",
+    "normalized_name": "cam whitmore",
+    "salary_2025_26": 3539760,
+    "flat_salary": 4499035,
+    "contract_years": 2
+  },
+  "rileywi01": {
+    "name": "Will Riley",
+    "normalized_name": "will riley",
+    "salary_2025_26": 3512520,
+    "flat_salary": 4305048,
+    "contract_years": 4
+  },
+  "tysonja01": {
+    "name": "Jaylon Tyson",
+    "normalized_name": "jaylon tyson",
+    "salary_2025_26": 3492480,
+    "flat_salary": 4264180,
+    "contract_years": 3
+  },
+  "tuckepj01": {
+    "name": "P.J. Tucker",
+    "normalized_name": "pj tucker",
+    "salary_2025_26": 3468960,
+    "flat_salary": 3468960,
+    "contract_years": 1
+  },
+  "hayesja02": {
+    "name": "Jaxson Hayes",
+    "normalized_name": "jaxson hayes",
+    "salary_2025_26": 3449323,
+    "flat_salary": 3449323,
+    "contract_years": 1
+  },
+  "clownno01": {
+    "name": "Noah Clowney",
+    "normalized_name": "noah clowney",
+    "salary_2025_26": 3398640,
+    "flat_salary": 4406337,
+    "contract_years": 2
+  },
+  "poweldr01": {
+    "name": "Drake Powell",
+    "normalized_name": "drake powell",
+    "salary_2025_26": 3372240,
+    "flat_salary": 4180998,
+    "contract_years": 4
+  },
+  "missiyv01": {
+    "name": "Yves Missi",
+    "normalized_name": "yves missi",
+    "salary_2025_26": 3353040,
+    "flat_salary": 4153876,
+    "contract_years": 3
+  },
+  "princta02": {
+    "name": "Taurean Prince",
+    "normalized_name": "taurean prince",
+    "salary_2025_26": 3303774,
+    "flat_salary": 3559818,
+    "contract_years": 2
+  },
+  "whiteda01": {
+    "name": "Dariq Whitehead",
+    "normalized_name": "dariq whitehead",
+    "salary_2025_26": 3262560,
+    "flat_salary": 3262560,
+    "contract_years": 1
+  },
+  "newelas01": {
+    "name": "Asa Newell",
+    "normalized_name": "asa newell",
+    "salary_2025_26": 3237480,
+    "flat_salary": 4060164,
+    "contract_years": 4
+  },
+  "holmeda01": {
+    "name": "DaRon Holmes",
+    "normalized_name": "daron holmes",
+    "salary_2025_26": 3218760,
+    "flat_salary": 4046006,
+    "contract_years": 3
+  },
+  "murrakr01": {
+    "name": "Kris Murray",
+    "normalized_name": "kris murray",
+    "salary_2025_26": 3132000,
+    "flat_salary": 4223502,
+    "contract_years": 2
+  },
+  "cliffni01": {
+    "name": "Nique Clifford",
+    "normalized_name": "nique clifford",
+    "salary_2025_26": 3108120,
+    "flat_salary": 3942450,
+    "contract_years": 4
+  },
+  "littlna01": {
+    "name": "Nassir Little",
+    "normalized_name": "nassir little",
+    "salary_2025_26": 3107143,
+    "flat_salary": 3107143,
+    "contract_years": 4
+  },
+  "johnsaj01": {
+    "name": "AJ Johnson",
+    "normalized_name": "aj johnson",
+    "salary_2025_26": 3090480,
+    "flat_salary": 3940331,
+    "contract_years": 3
+  },
+  "meltode01": {
+    "name": "De'Anthony Melton",
+    "normalized_name": "deanthony melton",
+    "salary_2025_26": 3080921,
+    "flat_salary": 3266350,
+    "contract_years": 2
+  },
+  "miltosh01": {
+    "name": "Shake Milton",
+    "normalized_name": "shake milton",
+    "salary_2025_26": 3000000,
+    "flat_salary": 3143703,
+    "contract_years": 2
+  },
+  "filipky01": {
+    "name": "Kyle Filipowski",
+    "normalized_name": "kyle filipowski",
+    "salary_2025_26": 3000000,
+    "flat_salary": 3000000,
+    "contract_years": 3
+  },
+  "mitchaj01": {
+    "name": "Ajay Mitchell",
+    "normalized_name": "ajay mitchell",
+    "salary_2025_26": 3000000,
+    "flat_salary": 2900000,
+    "contract_years": 3
+  },
+  "champju02": {
+    "name": "Julian Champagnie",
+    "normalized_name": "julian champagnie",
+    "salary_2025_26": 3000000,
+    "flat_salary": 3000000,
+    "contract_years": 2
+  },
+  "richaja02": {
+    "name": "Jase Richardson",
+    "normalized_name": "jase richardson",
+    "salary_2025_26": 2983320,
+    "flat_salary": 3827140,
+    "contract_years": 4
+  },
+  "georgky01": {
+    "name": "Kyshawn George",
+    "normalized_name": "kyshawn george",
+    "salary_2025_26": 2966760,
+    "flat_salary": 3836884,
+    "contract_years": 3
+  },
+  "bradlto01": {
+    "name": "Tony Bradley",
+    "normalized_name": "tony bradley",
+    "salary_2025_26": 2940876,
+    "flat_salary": 2940876,
+    "contract_years": 1
+  },
+  "sassema01": {
+    "name": "Marcus Sasser",
+    "normalized_name": "marcus sasser",
+    "salary_2025_26": 2886720,
+    "flat_salary": 4042852,
+    "contract_years": 2
+  },
+  "sarafbe01": {
+    "name": "Ben Saraf",
+    "normalized_name": "ben saraf",
+    "salary_2025_26": 2884560,
+    "flat_salary": 3701704,
+    "contract_years": 4
+  },
+  "dadiepa01": {
+    "name": "Pacome Dadiet",
+    "normalized_name": "pacome dadiet",
+    "salary_2025_26": 2847600,
+    "flat_salary": 3734963,
+    "contract_years": 3
+  },
+  "wolfda01": {
+    "name": "Danny Wolf",
+    "normalized_name": "danny wolf",
+    "salary_2025_26": 2801280,
+    "flat_salary": 3596050,
+    "contract_years": 4
+  },
+  "sheppbe01": {
+    "name": "Ben Sheppard",
+    "normalized_name": "ben sheppard",
+    "salary_2025_26": 2790720,
+    "flat_salary": 3911194,
+    "contract_years": 2
+  },
+  "gonzahu01": {
+    "name": "Hugo Gonz\u00c3\u00a1lez",
+    "normalized_name": "hugo gonzalez",
+    "salary_2025_26": 2783880,
+    "flat_salary": 3574536,
+    "contract_years": 4
+  },
+  "mcneeli01": {
+    "name": "Liam McNeeley",
+    "normalized_name": "liam mcneeley",
+    "salary_2025_26": 2763960,
+    "flat_salary": 3548534,
+    "contract_years": 4
+  },
+  "jonesdi01": {
+    "name": "Dillon Jones",
+    "normalized_name": "dillon jones",
+    "salary_2025_26": 2753280,
+    "flat_salary": 2753280,
+    "contract_years": 1
+  },
+  "konanya01": {
+    "name": "Yanic Konan Niederh\u00c3\u00a4user",
+    "normalized_name": "yanic konan niederhauser",
+    "salary_2025_26": 2743800,
+    "flat_salary": 3522899,
+    "contract_years": 4
+  },
+  "smithni01": {
+    "name": "Nick Smith Jr.",
+    "normalized_name": "nick smith",
+    "salary_2025_26": 2710680,
+    "flat_salary": 2710680,
+    "contract_years": 1
+  },
+  "sensabr01": {
+    "name": "Brice Sensabaugh",
+    "normalized_name": "brice sensabaugh",
+    "salary_2025_26": 2693760,
+    "flat_salary": 3777998,
+    "contract_years": 2
+  },
+  "strawju01": {
+    "name": "Julian Strawther",
+    "normalized_name": "julian strawther",
+    "salary_2025_26": 2674200,
+    "flat_salary": 3750566,
+    "contract_years": 2
+  },
+  "shannte01": {
+    "name": "Terrence Shannon Jr.",
+    "normalized_name": "terrence shannon",
+    "salary_2025_26": 2674080,
+    "flat_salary": 3509960,
+    "contract_years": 3
+  },
+  "dunnry01": {
+    "name": "Ryan Dunn",
+    "normalized_name": "ryan dunn",
+    "salary_2025_26": 2657760,
+    "flat_salary": 3489184,
+    "contract_years": 3
+  },
+  "brownko01": {
+    "name": "Kobe Brown",
+    "normalized_name": "kobe brown",
+    "salary_2025_26": 2654880,
+    "flat_salary": 3723470,
+    "contract_years": 2
+  },
+  "colliis01": {
+    "name": "Isaiah Collier",
+    "normalized_name": "isaiah collier",
+    "salary_2025_26": 2638200,
+    "flat_salary": 3463703,
+    "contract_years": 3
+  },
+  "scheiba01": {
+    "name": "Baylor Scheierman",
+    "normalized_name": "baylor scheierman",
+    "salary_2025_26": 2619000,
+    "flat_salary": 3438678,
+    "contract_years": 3
+  },
+  "tillmxa01": {
+    "name": "Xavier Tillman Sr.",
+    "normalized_name": "xavier tillman",
+    "salary_2025_26": 2546675,
+    "flat_salary": 2546675,
+    "contract_years": 1
+  },
+  "okekech01": {
+    "name": "Chuma Okeke",
+    "normalized_name": "chuma okeke",
+    "salary_2025_26": 2546675,
+    "flat_salary": 2546675,
+    "contract_years": 1
+  },
+  "spencca01": {
+    "name": "Cam Spencer",
+    "normalized_name": "cam spencer",
+    "salary_2025_26": 2537989,
+    "flat_salary": 2599130,
+    "contract_years": 4
+  },
+  "garzalu01": {
+    "name": "Luka Garza",
+    "normalized_name": "luka garza",
+    "salary_2025_26": 2461463,
+    "flat_salary": 2631404,
+    "contract_years": 2
+  },
+  "mamuksa01": {
+    "name": "Sandro Mamukelashvili",
+    "normalized_name": "sandro mamukelashvili",
+    "salary_2025_26": 2461463,
+    "flat_salary": 2631404,
+    "contract_years": 2
+  },
+  "watfotr01": {
+    "name": "Trendon Watford",
+    "normalized_name": "trendon watford",
+    "salary_2025_26": 2461463,
+    "flat_salary": 2631404,
+    "contract_years": 2
+  },
+  "simsje01": {
+    "name": "Jericho Sims",
+    "normalized_name": "jericho sims",
+    "salary_2025_26": 2461463,
+    "flat_salary": 2631404,
+    "contract_years": 2
+  },
+  "smithdr01": {
+    "name": "Dru Smith",
+    "normalized_name": "dru smith",
+    "salary_2025_26": 2378870,
+    "flat_salary": 2632717,
+    "contract_years": 3
+  },
+  "minotjo01": {
+    "name": "Josh Minott",
+    "normalized_name": "josh minott",
+    "salary_2025_26": 2378870,
+    "flat_salary": 2481704,
+    "contract_years": 2
+  },
+  "champju01": {
+    "name": "Justin Champagnie",
+    "normalized_name": "justin champagnie",
+    "salary_2025_26": 2349578,
+    "flat_salary": 2674202,
+    "contract_years": 3
+  },
+  "goodwjo01": {
+    "name": "Jordan Goodwin",
+    "normalized_name": "jordan goodwin",
+    "salary_2025_26": 2349578,
+    "flat_salary": 2349578,
+    "contract_years": 1
+  },
+  "huffja01": {
+    "name": "Jay Huff",
+    "normalized_name": "jay huff",
+    "salary_2025_26": 2349578,
+    "flat_salary": 2674202,
+    "contract_years": 3
+  },
+  "johnske07": {
+    "name": "Keon Johnson",
+    "normalized_name": "keon johnson",
+    "salary_2025_26": 2349578,
+    "flat_salary": 2349578,
+    "contract_years": 1
+  },
+  "quetane01": {
+    "name": "Neemias Queta",
+    "normalized_name": "neemias queta",
+    "salary_2025_26": 2349578,
+    "flat_salary": 2508761,
+    "contract_years": 2
+  },
+  "krejcvi01": {
+    "name": "Vit Krejci",
+    "normalized_name": "vit krejci",
+    "salary_2025_26": 2349578,
+    "flat_salary": 2674202,
+    "contract_years": 3
+  },
+  "greenaj01": {
+    "name": "A.J. Green",
+    "normalized_name": "aj green",
+    "salary_2025_26": 2301587,
+    "flat_salary": 9460317,
+    "contract_years": 5
+  },
+  "elliske01": {
+    "name": "Keon Ellis",
+    "normalized_name": "keon ellis",
+    "salary_2025_26": 2301587,
+    "flat_salary": 2301587,
+    "contract_years": 1
+  },
+  "willivi01": {
+    "name": "Vince Williams Jr.",
+    "normalized_name": "vince williams",
+    "salary_2025_26": 2301587,
+    "flat_salary": 2395670,
+    "contract_years": 2
+  },
+  "jamessi01": {
+    "name": "Sion James",
+    "normalized_name": "sion james",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2492241,
+    "contract_years": 4
+  },
+  "kalkbry01": {
+    "name": "Ryan Kalkbrenner",
+    "normalized_name": "ryan kalkbrenner",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2492241,
+    "contract_years": 4
+  },
+  "baglema01": {
+    "name": "Marvin Bagley III",
+    "normalized_name": "marvin bagley",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "gillan01": {
+    "name": "Anthony Gill",
+    "normalized_name": "anthony gill",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "templga01": {
+    "name": "Garrett Temple",
+    "normalized_name": "garrett temple",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "biyombi01": {
+    "name": "Bismack Biyombo",
+    "normalized_name": "bismack biyombo",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "waterli01": {
+    "name": "Lindy Waters III",
+    "normalized_name": "lindy waters",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "mclaujo01": {
+    "name": "Jordan McLaughlin",
+    "normalized_name": "jordan mclaughlin",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "westbru01": {
+    "name": "Russell Westbrook",
+    "normalized_name": "russell westbrook",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "mcderdo01": {
+    "name": "Doug McDermott",
+    "normalized_name": "doug mcdermott",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "eubandr01": {
+    "name": "Drew Eubanks",
+    "normalized_name": "drew eubanks",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "gilleco01": {
+    "name": "Collin Gillespie",
+    "normalized_name": "collin gillespie",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "lowryky01": {
+    "name": "Kyle Lowry",
+    "normalized_name": "kyle lowry",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "gordoer01": {
+    "name": "Eric Gordon",
+    "normalized_name": "eric gordon",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "shamela01": {
+    "name": "Landry Shamet",
+    "normalized_name": "landry shamet",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "hylanbo01": {
+    "name": "Bones Hyland",
+    "normalized_name": "bones hyland",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "inglejo01": {
+    "name": "Joe Ingles",
+    "normalized_name": "joe ingles",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "antetth01": {
+    "name": "Thanasis Antetokounmpo",
+    "normalized_name": "thanasis antetokounmpo",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "coffeam01": {
+    "name": "Amir Coffey",
+    "normalized_name": "amir coffey",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "paulch01": {
+    "name": "Chris Paul",
+    "normalized_name": "chris paul",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "okogijo01": {
+    "name": "Josh Okogie",
+    "normalized_name": "josh okogie",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "greenje02": {
+    "name": "Jeff Green",
+    "normalized_name": "jeff green",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "holidaa01": {
+    "name": "Aaron Holiday",
+    "normalized_name": "aaron holiday",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "tateja01": {
+    "name": "Jae'Sean Tate",
+    "normalized_name": "jaesean tate",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "paytoga02": {
+    "name": "Gary Payton II",
+    "normalized_name": "gary payton",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "greenja02": {
+    "name": "Javonte Green",
+    "normalized_name": "javonte green",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "hardati02": {
+    "name": "Tim Hardaway Jr.",
+    "normalized_name": "tim hardaway",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "brownbr01": {
+    "name": "Bruce Brown",
+    "normalized_name": "bruce brown",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "exumda01": {
+    "name": "Dante Exum",
+    "normalized_name": "dante exum",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "bryanth01": {
+    "name": "Thomas Bryant",
+    "normalized_name": "thomas bryant",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "nancela02": {
+    "name": "Larry Nance Jr.",
+    "normalized_name": "larry nance",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "plumlma01": {
+    "name": "Mason Plumlee",
+    "normalized_name": "mason plumlee",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "bouchch01": {
+    "name": "Chris Boucher",
+    "normalized_name": "chris boucher",
+    "salary_2025_26": 2296274,
+    "flat_salary": 2296274,
+    "contract_years": 1
+  },
+  "pippesc02": {
+    "name": "Scotty Pippen Jr.",
+    "normalized_name": "scotty pippen",
+    "salary_2025_26": 2270735,
+    "flat_salary": 2507137,
+    "contract_years": 3
+  },
+  "davisjd01": {
+    "name": "JD Davison",
+    "normalized_name": "jd davison",
+    "salary_2025_26": 2270735,
+    "flat_salary": 2270735,
+    "contract_years": 1
+  },
+  "willibr03": {
+    "name": "Brandon Williams",
+    "normalized_name": "brandon williams",
+    "salary_2025_26": 2270735,
+    "flat_salary": 2270735,
+    "contract_years": 1
+  },
+  "diabamo01": {
+    "name": "Moussa Diabat\u00c3\u00a9",
+    "normalized_name": "moussa diabata",
+    "salary_2025_26": 2270735,
+    "flat_salary": 2366098,
+    "contract_years": 2
+  },
+  "jordade01": {
+    "name": "DeAndre Jordan",
+    "normalized_name": "deandre jordan",
+    "salary_2025_26": 2269880,
+    "flat_salary": 2269880,
+    "contract_years": 1
+  },
+  "camarto01": {
+    "name": "Toumani Camara",
+    "normalized_name": "toumani camara",
+    "salary_2025_26": 2221677,
+    "flat_salary": 16644335,
+    "contract_years": 5
+  },
+  "ruperra01": {
+    "name": "Rayan Rupert",
+    "normalized_name": "rayan rupert",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2221677,
+    "contract_years": 1
+  },
+  "councri01": {
+    "name": "Ricky Council IV",
+    "normalized_name": "ricky council",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2221677,
+    "contract_years": 1
+  },
+  "jacksgg01": {
+    "name": "GG Jackson II",
+    "normalized_name": "gg jackson",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "santogu01": {
+    "name": "Gui Santos",
+    "normalized_name": "gui santos",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2221677,
+    "contract_years": 1
+  },
+  "pickeja02": {
+    "name": "Jalen Pickett",
+    "normalized_name": "jalen pickett",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "tysonhu01": {
+    "name": "Hunter Tyson",
+    "normalized_name": "hunter tyson",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "phillju01": {
+    "name": "Julian Phillips",
+    "normalized_name": "julian phillips",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "wilsoja03": {
+    "name": "Jalen Wilson",
+    "normalized_name": "jalen wilson",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2221677,
+    "contract_years": 1
+  },
+  "walshjo01": {
+    "name": "Jordan Walsh",
+    "normalized_name": "jordan walsh",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "reathdu01": {
+    "name": "Duop Reath",
+    "normalized_name": "duop reath",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2221677,
+    "contract_years": 1
+  },
+  "millele01": {
+    "name": "Leonard Miller",
+    "normalized_name": "leonard miller",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "jacksan01": {
+    "name": "Andre Jackson Jr.",
+    "normalized_name": "andre jackson",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "jackstr02": {
+    "name": "Trayce Jackson-Davis",
+    "normalized_name": "trayce jacksondavis",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "portecr01": {
+    "name": "Craig Porter Jr.",
+    "normalized_name": "craig porter",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "gueyemo02": {
+    "name": "Mouhamed Gueye",
+    "normalized_name": "mouhamed gueye",
+    "salary_2025_26": 2221677,
+    "flat_salary": 2313941,
+    "contract_years": 2
+  },
+  "mcgeeja01": {
+    "name": "JaVale McGee",
+    "normalized_name": "javale mcgee",
+    "salary_2025_26": 2208856,
+    "flat_salary": 2208856,
+    "contract_years": 3
+  },
+  "kolekty01": {
+    "name": "Tyler Kolek",
+    "normalized_name": "tyler kolek",
+    "salary_2025_26": 2191897,
+    "flat_salary": 2325054,
+    "contract_years": 3
+  },
+  "clarkja02": {
+    "name": "Jaylen Clark",
+    "normalized_name": "jaylen clark",
+    "salary_2025_26": 2191897,
+    "flat_salary": 2191897,
+    "contract_years": 1
+  },
+  "martity01": {
+    "name": "Tyrese Martin",
+    "normalized_name": "tyrese martin",
+    "salary_2025_26": 2191897,
+    "flat_salary": 2191897,
+    "contract_years": 1
+  },
+  "achiupr01": {
+    "name": "Precious Achiuwa",
+    "normalized_name": "precious achiuwa",
+    "salary_2025_26": 2111516,
+    "flat_salary": 2111516,
+    "contract_years": 1
+  },
+  "edwarju01": {
+    "name": "Justin Edwards",
+    "normalized_name": "justin edwards",
+    "salary_2025_26": 2048494,
+    "flat_salary": 2358779,
+    "contract_years": 3
+  },
+  "hayesni01": {
+    "name": "Nigel Hayes-Davis",
+    "normalized_name": "nigel hayesdavis",
+    "salary_2025_26": 2048494,
+    "flat_salary": 2048494,
+    "contract_years": 1
+  },
+  "nfalyda01": {
+    "name": "N'Faly Dante",
+    "normalized_name": "nfaly dante",
+    "salary_2025_26": 2048494,
+    "flat_salary": 2229792,
+    "contract_years": 2
+  },
+  "smithty02": {
+    "name": "Tyler Smith",
+    "normalized_name": "tyler smith",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2125824,
+    "contract_years": 2
+  },
+  "furphjo01": {
+    "name": "Johnny Furphy",
+    "normalized_name": "johnny furphy",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "mogbojo01": {
+    "name": "Jonathan Mogbo",
+    "normalized_name": "jonathan mogbo",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2125824,
+    "contract_years": 2
+  },
+  "sheadja01": {
+    "name": "Jamal Shead",
+    "normalized_name": "jamal shead",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2125824,
+    "contract_years": 2
+  },
+  "ighodos01": {
+    "name": "Oso Ighodaro",
+    "normalized_name": "oso ighodaro",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "hukpoar01": {
+    "name": "Ariel Hukporti",
+    "normalized_name": "ariel hukporti",
+    "salary_2025_26": 1955377,
+    "flat_salary": 1955377,
+    "contract_years": 1
+  },
+  "matkoka01": {
+    "name": "Karlo Matkovi\u00c4\u0087",
+    "normalized_name": "karlo matkovia",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2125824,
+    "contract_years": 2
+  },
+  "johnske10": {
+    "name": "Keshad Johnson",
+    "normalized_name": "keshad johnson",
+    "salary_2025_26": 1955377,
+    "flat_salary": 1955377,
+    "contract_years": 1
+  },
+  "wellsja01": {
+    "name": "Jaylen Wells",
+    "normalized_name": "jaylen wells",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "jamesbr02": {
+    "name": "Bronny James",
+    "normalized_name": "bronny james",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "chrisca02": {
+    "name": "Cam Christie",
+    "normalized_name": "cam christie",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "postqu01": {
+    "name": "Quinten Post",
+    "normalized_name": "quinten post",
+    "salary_2025_26": 1955377,
+    "flat_salary": 1955377,
+    "contract_years": 1
+  },
+  "jonesis01": {
+    "name": "Isaac Jones",
+    "normalized_name": "isaac jones",
+    "salary_2025_26": 1955377,
+    "flat_salary": 1955377,
+    "contract_years": 1
+  },
+  "klintbo01": {
+    "name": "Bobi Klintman",
+    "normalized_name": "bobi klintman",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "timmedr01": {
+    "name": "Drew Timme",
+    "normalized_name": "drew timme",
+    "salary_2025_26": 1955377,
+    "flat_salary": 1955377,
+    "contract_years": 1
+  },
+  "battlja01": {
+    "name": "Jamison Battle",
+    "normalized_name": "jamison battle",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2125824,
+    "contract_years": 2
+  },
+  "bonaad01": {
+    "name": "Adem Bona",
+    "normalized_name": "adem bona",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2246214,
+    "contract_years": 3
+  },
+  "larsspe01": {
+    "name": "Pelle Larsson",
+    "normalized_name": "pelle larsson",
+    "salary_2025_26": 1955377,
+    "flat_salary": 2125824,
+    "contract_years": 2
+  },
+  "laniech01": {
+    "name": "Chaz Lanier",
+    "normalized_name": "chaz lanier",
+    "salary_2025_26": 1372870,
+    "flat_salary": 2196346,
+    "contract_years": 4
+  },
+  "flemira01": {
+    "name": "Rasheer Fleming",
+    "normalized_name": "rasheer fleming",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "raynama01": {
+    "name": "Maxime Raynaud",
+    "normalized_name": "maxime raynaud",
+    "salary_2025_26": 1272870,
+    "flat_salary": 1983229,
+    "contract_years": 3
+  },
+  "broomjo01": {
+    "name": "Johni Broome",
+    "normalized_name": "johni broome",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "pendano01": {
+    "name": "Noah Penda",
+    "normalized_name": "noah penda",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "peavymi01": {
+    "name": "Micah Peavy",
+    "normalized_name": "micah peavy",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "thierad01": {
+    "name": "Adou Thiero",
+    "normalized_name": "adou thiero",
+    "salary_2025_26": 1272870,
+    "flat_salary": 1983229,
+    "contract_years": 3
+  },
+  "richawi02": {
+    "name": "Will Richard",
+    "normalized_name": "will richard",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "proctty01": {
+    "name": "Tyrese Proctor",
+    "normalized_name": "tyrese proctor",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "diawamo01": {
+    "name": "Mohamed Diawara",
+    "normalized_name": "mohamed diawara",
+    "salary_2025_26": 1272870,
+    "flat_salary": 1272870,
+    "contract_years": 1
+  },
+  "joneska03": {
+    "name": "Kam Jones",
+    "normalized_name": "kam jones",
+    "salary_2025_26": 1272870,
+    "flat_salary": 2171346,
+    "contract_years": 4
+  },
+  "djurini01": {
+    "name": "Nikola Djurisic",
+    "normalized_name": "nikola djurisic",
+    "salary_2025_26": 1272870,
+    "flat_salary": 1983229,
+    "contract_years": 3
+  },
+  "prospol01": {
+    "name": "Olivier-Maxence Prosper",
+    "normalized_name": "oliviermaxence prosper",
+    "salary_2025_26": 1002360,
+    "flat_salary": 1002360,
+    "contract_years": 3
+  },
+  "wisemja01": {
+    "name": "James Wiseman",
+    "normalized_name": "james wiseman",
+    "salary_2025_26": 1000000,
+    "flat_salary": 1000000,
+    "contract_years": 1
+  },
+  "liddeej01": {
+    "name": "E.J. Liddell",
+    "normalized_name": "ej liddell",
+    "salary_2025_26": 706898,
+    "flat_salary": 706898,
+    "contract_years": 2
+  },
+  "diakima01": {
+    "name": "Mamadi Diakite",
+    "normalized_name": "mamadi diakite",
+    "salary_2025_26": 464050,
+    "flat_salary": 464050,
+    "contract_years": 2
+  },
+  "rubiori01": {
+    "name": "Ricky Rubio",
+    "normalized_name": "ricky rubio",
+    "salary_2025_26": 424672,
+    "flat_salary": 424672,
+    "contract_years": 2
+  },
+  "morrimo01": {
+    "name": "Monte Morris",
+    "normalized_name": "monte morris",
+    "salary_2025_26": 321184,
+    "flat_salary": 321184,
+    "contract_years": 1
+  },
+  "louzama01": {
+    "name": "Didi Louzada",
+    "normalized_name": "didi louzada",
+    "salary_2025_26": 268032,
+    "flat_salary": 268032,
+    "contract_years": 4
+  },
+  "mccluma01": {
+    "name": "Mac McClung",
+    "normalized_name": "mac mcclung",
+    "salary_2025_26": 164060,
+    "flat_salary": 164060,
+    "contract_years": 1
+  },
+  "mathega01": {
+    "name": "Garrison Mathews",
+    "normalized_name": "garrison mathews",
+    "salary_2025_26": 131970,
+    "flat_salary": 131970,
+    "contract_years": 1
+  },
+  "sprinja01": {
+    "name": "Jaden Springer",
+    "normalized_name": "jaden springer",
+    "salary_2025_26": 70732,
+    "flat_salary": 70732,
+    "contract_years": 1
+  }
+}
